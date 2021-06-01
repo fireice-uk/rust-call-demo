@@ -1,3 +1,3 @@
-import * as wasm from "hello-wasm-pack";
+import * as wasm from "rust-call-demo";
 
 alert(wasm.test_return());
